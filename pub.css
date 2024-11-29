@@ -32,13 +32,11 @@ h1 {
     background-color: #0056b3;
 }
 
-/* Section for Publications */
 #publication {
     margin-top: 20px;
     width: 51%;
 }
 
-/* Publication Styles */
 .publication {
     margin-bottom: 20px;
     padding: 15px;
@@ -53,7 +51,6 @@ h1 {
     margin: 0 0 10px;
 }
 
-/* Comment Input and Button */
 .commentInput {
     width: 50%;
     margin-top: 10px;
@@ -74,7 +71,7 @@ h1 {
 
 .addCommentButton {
     display: block;
-    margin: 10px auto 0; /* Center-align button and add margin */
+    margin: 10px auto 0; 
     padding: 10px 15px;
     font-size: 14px;
     background-color: #28a745;
@@ -88,7 +85,7 @@ h1 {
     background-color: #218838;
 }
 
-/* Comment Styles */
+
 .comment {
     margin: 10px 0;
     padding: 10px;
